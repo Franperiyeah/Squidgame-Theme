@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "squid-game-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![Logo](https://i.postimg.cc/qR1P3xxs/Captura-de-pantalla-2021-10-27-a-las-19-10-04.png)
+# Squid Game - VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+  
+## 🚀 About This theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Theme based in the main colors used in the Squid Game tv show.
 
-**Enjoy!**
+This theme will be updated periodically to improve its use.
+## 🔗 Links
+[Discord](https://discord.gg/RwZ3BWgsGz)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RuizSantaclara)
