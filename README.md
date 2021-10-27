@@ -1,4 +1,4 @@
-![Logo](https://i.postimg.cc/qR1P3xxs/Captura-de-pantalla-2021-10-27-a-las-19-10-04.png)
+![Logo](https://i.postimg.cc/3R83DZz1/Captura-de-pantalla-2021-10-27-a-las-19-54-34.png)
 # Squid Game - VS Code Theme
 
   
