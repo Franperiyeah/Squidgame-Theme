@@ -7,6 +7,12 @@
 Theme based in the main colors used in the Squid Game tv show.
 
 This theme will be updated periodically to improve its use.
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/cHwyXxbF/Captura-de-pantalla-2021-10-27-a-las-22-14-19.png)
+
+
 ## 🔗 Links
 [Discord](https://discord.gg/RwZ3BWgsGz)
 
