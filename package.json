@@ -2,7 +2,7 @@
     "name": "squid-game-theme",
     "displayName": "Squid Game Theme",
     "description": "Theme based in the Squid Game TV show",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "FranRuizSantaclara",
     "repository": {
         "type": "git",
@@ -14,7 +14,8 @@
         "dark",
         "juego del calamar",
         "dark theme",
-        "calamar"
+        "calamar",
+        "squid"
     ],
     "engines": {
         "vscode": "^1.61.0"
